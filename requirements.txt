@@ -1,0 +1,9 @@
+# WiFiRadar - Zero External Dependencies
+#
+# This project uses ONLY the Python standard library.
+# No third-party packages are required for core functionality.
+#
+# Optional development dependencies (not needed for runtime):
+#   pytest>=7.0    - for running tests
+#   mypy           - for static type checking
+#   tox            - for multi-version testing
